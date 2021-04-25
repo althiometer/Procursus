@@ -1,0 +1,7 @@
+Package: pueue
+Version: @DEB_PUEUE_V@
+Architecture: @DEB_ARCH@
+Maintainer: @DEB_MAINTAINER@
+Section: Utilities
+Homepage: https://github.com/Nukesor/Pueue
+Description: a tool that processes a queue of shell commands
